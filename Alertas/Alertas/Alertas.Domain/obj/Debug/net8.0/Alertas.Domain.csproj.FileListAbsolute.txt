@@ -1,0 +1,23 @@
+C:\Users\lugaopc\Desktop\Projeto_Navarro\Alertas\Alertas.Domain\bin\Debug\net8.0\Alertas.Domain.deps.json
+C:\Users\lugaopc\Desktop\Projeto_Navarro\Alertas\Alertas.Domain\bin\Debug\net8.0\Alertas.Domain.dll
+C:\Users\lugaopc\Desktop\Projeto_Navarro\Alertas\Alertas.Domain\bin\Debug\net8.0\Alertas.Domain.pdb
+C:\Users\lugaopc\Desktop\Projeto_Navarro\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugaopc\Desktop\Projeto_Navarro\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.AssemblyInfoInputs.cache
+C:\Users\lugaopc\Desktop\Projeto_Navarro\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.AssemblyInfo.cs
+C:\Users\lugaopc\Desktop\Projeto_Navarro\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lugaopc\Desktop\Projeto_Navarro\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.sourcelink.json
+C:\Users\lugaopc\Desktop\Projeto_Navarro\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.dll
+C:\Users\lugaopc\Desktop\Projeto_Navarro\Alertas\Alertas.Domain\obj\Debug\net8.0\refint\Alertas.Domain.dll
+C:\Users\lugaopc\Desktop\Projeto_Navarro\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.pdb
+C:\Users\lugaopc\Desktop\Projeto_Navarro\Alertas\Alertas.Domain\obj\Debug\net8.0\ref\Alertas.Domain.dll
+C:\Users\NOT LIA\Downloads\Alertas\Alertas\Alertas.Domain\bin\Debug\net8.0\Alertas.Domain.deps.json
+C:\Users\NOT LIA\Downloads\Alertas\Alertas\Alertas.Domain\bin\Debug\net8.0\Alertas.Domain.dll
+C:\Users\NOT LIA\Downloads\Alertas\Alertas\Alertas.Domain\bin\Debug\net8.0\Alertas.Domain.pdb
+C:\Users\NOT LIA\Downloads\Alertas\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOT LIA\Downloads\Alertas\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.AssemblyInfoInputs.cache
+C:\Users\NOT LIA\Downloads\Alertas\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.AssemblyInfo.cs
+C:\Users\NOT LIA\Downloads\Alertas\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NOT LIA\Downloads\Alertas\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.dll
+C:\Users\NOT LIA\Downloads\Alertas\Alertas\Alertas.Domain\obj\Debug\net8.0\refint\Alertas.Domain.dll
+C:\Users\NOT LIA\Downloads\Alertas\Alertas\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.pdb
+C:\Users\NOT LIA\Downloads\Alertas\Alertas\Alertas.Domain\obj\Debug\net8.0\ref\Alertas.Domain.dll

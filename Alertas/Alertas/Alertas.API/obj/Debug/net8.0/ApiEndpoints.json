@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Alertas.API.Controllers.PublisherController",
+    "Method": "EnviarAlerta",
+    "RelativePath": "api/Publisher/alerta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alerta",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alertas.API.Controllers.ServidorController",
+    "Method": "ReceberAlerta",
+    "RelativePath": "api/servidor/alerta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alerta",
+        "Type": "Alertas.Domain.Alerta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
