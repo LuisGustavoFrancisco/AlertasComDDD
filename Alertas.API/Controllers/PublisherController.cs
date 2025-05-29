@@ -22,7 +22,6 @@ namespace Alertas.API.Controllers
         {
             var json = JsonSerializer.Serialize(alerta);
             _publisher.Publicar("alerta.servidor", json);
-            
 
             return Ok(new { status = "Mensagem publicada com sucesso." });
         }

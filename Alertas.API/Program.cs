@@ -1,15 +1,12 @@
 using Alertas.Infra;
 using Alertas.Infra.Interfaces;
 using Alertas.Infra.Repositories;
-using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddDbContext<SqlContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-
+builder.Services.AddDbContext<SqlContext>();
 builder.Services.AddControllers();
 builder.Services.AddScoped<IAlertaService, AlertaService>();
 builder.Services.AddSingleton<IAlertaPublisher, AlertaPublisher>();

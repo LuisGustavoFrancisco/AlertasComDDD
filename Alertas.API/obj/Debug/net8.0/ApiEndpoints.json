@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Alertas.API.Controllers.BancoController",
+    "Method": "ReceberAlerta",
+    "RelativePath": "api/banco/alerta/Alerta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alerta",
+        "Type": "Alertas.Domain.Alerta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Alertas.API.Controllers.PublisherController",
     "Method": "EnviarAlerta",
     "RelativePath": "api/Publisher/alerta",
@@ -10,6 +26,38 @@
       {
         "Name": "alerta",
         "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alertas.API.Controllers.RedeController",
+    "Method": "ReceberAlerta",
+    "RelativePath": "api/rede/alerta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alerta",
+        "Type": "Alertas.Domain.Alerta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alertas.API.Controllers.SegurancaController",
+    "Method": "ReceberAlerta",
+    "RelativePath": "api/seguranca/alerta/Alerta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "alerta",
+        "Type": "Alertas.Domain.Alerta",
         "IsRequired": true
       }
     ],

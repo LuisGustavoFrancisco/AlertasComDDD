@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alertas.Publisher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e9289b2991a76229be2fe799edd344218f89375")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alertas.Publisher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alertas.Publisher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

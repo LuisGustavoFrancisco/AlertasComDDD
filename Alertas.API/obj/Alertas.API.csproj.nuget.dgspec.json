@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.API\\Alertas.API.csproj": {}
+    "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.API\\Alertas.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.API\\Alertas.API.csproj": {
+    "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.API\\Alertas.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.API\\Alertas.API.csproj",
+        "projectUniqueName": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.API\\Alertas.API.csproj",
         "projectName": "Alertas.API",
-        "projectPath": "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.API\\Alertas.API.csproj",
-        "packagesPath": "C:\\Users\\NOT LIA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.API\\obj\\",
+        "projectPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.API\\Alertas.API.csproj",
+        "packagesPath": "C:\\Users\\lugaopc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NOT LIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lugaopc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.Infra\\Alertas.Infra.csproj": {
-                "projectPath": "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.Infra\\Alertas.Infra.csproj"
+              "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj": {
+                "projectPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj"
               }
             }
           }
@@ -48,24 +48,12 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.5, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -90,24 +78,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.Domain\\Alertas.Domain.csproj": {
+    "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.Domain\\Alertas.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj",
         "projectName": "Alertas.Domain",
-        "projectPath": "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.Domain\\Alertas.Domain.csproj",
-        "packagesPath": "C:\\Users\\NOT LIA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.Domain\\obj\\",
+        "projectPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj",
+        "packagesPath": "C:\\Users\\lugaopc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NOT LIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lugaopc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -134,11 +122,17 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -155,24 +149,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.Infra\\Alertas.Infra.csproj": {
+    "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.Infra\\Alertas.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj",
         "projectName": "Alertas.Infra",
-        "projectPath": "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.Infra\\Alertas.Infra.csproj",
-        "packagesPath": "C:\\Users\\NOT LIA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.Infra\\obj\\",
+        "projectPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj",
+        "packagesPath": "C:\\Users\\lugaopc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NOT LIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lugaopc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -187,8 +181,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.Domain\\Alertas.Domain.csproj": {
-                "projectPath": "C:\\Users\\NOT LIA\\Downloads\\Alertas\\Alertas.Domain\\Alertas.Domain.csproj"
+              "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj": {
+                "projectPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj"
               }
             }
           }
@@ -203,29 +197,13 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[9.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[9.0.5, )"
-            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[9.0.5, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.5, )"
             },
@@ -250,7 +228,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
