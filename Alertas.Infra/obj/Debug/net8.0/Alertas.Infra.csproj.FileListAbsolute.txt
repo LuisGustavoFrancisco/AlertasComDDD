@@ -61,3 +61,5 @@ C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Infra\obj\Debug\net8
 C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Infra\obj\Debug\net8.0\refint\Alertas.Infra.dll
 C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Infra\obj\Debug\net8.0\Alertas.Infra.pdb
 C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Infra\obj\Debug\net8.0\ref\Alertas.Infra.dll
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Infra\bin\Debug\net8.0\Alertas.Infra.runtimeconfig.json
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Infra\obj\Debug\net8.0\Alertas.Infra.genruntimeconfig.cache

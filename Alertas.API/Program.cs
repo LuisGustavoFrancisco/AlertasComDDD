@@ -8,8 +8,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<SqlContext>();
 builder.Services.AddControllers();
+
+builder.Services.AddScoped<IAlertaSubscriber, AlertaSubscriber>();
 builder.Services.AddScoped<IAlertaService, AlertaService>();
-builder.Services.AddSingleton<IAlertaPublisher, AlertaPublisher>();
+builder.Services.AddScoped<IAlertaPublisher, AlertaPublisher>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

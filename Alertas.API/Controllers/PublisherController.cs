@@ -18,7 +18,7 @@ namespace Alertas.API.Controllers
         }
 
         [HttpPost("alerta")]
-        public IActionResult EnviarAlerta([FromBody] object alerta)
+        public IActionResult EnviarAlerta([FromBody] Alerta alerta)
         {
             var json = JsonSerializer.Serialize(alerta);
             _publisher.Publicar("alerta.servidor", json);

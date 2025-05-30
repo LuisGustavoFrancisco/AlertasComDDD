@@ -25,7 +25,7 @@
     "Parameters": [
       {
         "Name": "alerta",
-        "Type": "System.Object",
+        "Type": "Alertas.Domain.Alerta",
         "IsRequired": true
       }
     ],

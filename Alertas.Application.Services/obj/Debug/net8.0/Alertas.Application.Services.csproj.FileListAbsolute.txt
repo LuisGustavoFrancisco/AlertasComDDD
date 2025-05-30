@@ -1,0 +1,12 @@
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Application.Services\bin\Debug\net8.0\Alertas.Application.Services.deps.json
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Application.Services\bin\Debug\net8.0\Alertas.Application.Services.dll
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Application.Services\bin\Debug\net8.0\Alertas.Application.Services.pdb
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Application.Services\obj\Debug\net8.0\Alertas.Application.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Application.Services\obj\Debug\net8.0\Alertas.Application.Services.AssemblyInfoInputs.cache
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Application.Services\obj\Debug\net8.0\Alertas.Application.Services.AssemblyInfo.cs
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Application.Services\obj\Debug\net8.0\Alertas.Application.Services.csproj.CoreCompileInputs.cache
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Application.Services\obj\Debug\net8.0\Alertas.Application.Services.sourcelink.json
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Application.Services\obj\Debug\net8.0\Alertas.Application.Services.dll
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Application.Services\obj\Debug\net8.0\refint\Alertas.Application.Services.dll
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Application.Services\obj\Debug\net8.0\Alertas.Application.Services.pdb
+C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Application.Services\obj\Debug\net8.0\ref\Alertas.Application.Services.dll

@@ -1055,6 +1055,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Alertas.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "9.0.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.5",
           "RabbitMQ.Client": "6.8.1"
         },

@@ -3,6 +3,7 @@
 
     public class Alerta
     {
+        public int Id { get; set; }
         public string Tipo { get; set; }
         public string Categoria { get; set; }
         public string Mensagem { get; set; }
