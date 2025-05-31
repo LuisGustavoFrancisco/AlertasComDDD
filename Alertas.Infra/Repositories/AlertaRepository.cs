@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace Alertas.Infra.Repositories
 {
-    public class AlertaSubscriber : IAlertaSubscriber
+    public class AlertaRepository : IAlertaRepository
     {
         private readonly SqlContext sqlcontext;
 
-        public AlertaSubscriber()
+        public AlertaRepository()
         {
             sqlcontext = new SqlContext();
         }

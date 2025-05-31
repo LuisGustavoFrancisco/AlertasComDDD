@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Alertas.Infra.Interfaces
 {
-    public interface IAlertaSubscriber
+    public interface IAlertaRepository
     {
         void Salvar (Alerta alerta);
     }

@@ -10,13 +10,6 @@
         public DateTime DataHora { get; set; }
         public string Hostname { get; set; }
         public string Criticidade { get; set; }
-
-        public bool EhValido()
-        {
-            return !string.IsNullOrWhiteSpace(Tipo) &&
-                   !string.IsNullOrWhiteSpace(Categoria) &&
-                   !string.IsNullOrWhiteSpace(Mensagem);
-        }
     }
 
 }

@@ -1,4 +1,5 @@
-﻿using Alertas.Infra.Interfaces;
+﻿using Alertas.Infra;
+using Alertas.Infra.Interfaces;
 using RabbitMQ.Client;
 using System.Text;
 
@@ -8,24 +9,7 @@ public class AlertaPublisher : IAlertaPublisher
 
     public AlertaPublisher()
     {
-        var factory = new ConnectionFactory
-        {
-            HostName = "jaragua.lmq.cloudamqp.com",
-            Port = 5671,
-            UserName = "zgindcqr",
-            Password = "DVOUL1YUtl03fv2gZ8rM1VGEnS27206l",
-            VirtualHost = "zgindcqr",
-            Ssl = new SslOption
-            {
-                Enabled = true,
-                ServerName = "jaragua.lmq.cloudamqp.com"
-            }
-        };
-
-        var connection = factory.CreateConnection();
-        _channel = connection.CreateModel();
-
-        _channel.ExchangeDeclare("alertas.exchange", ExchangeType.Topic, durable: true);
+        _channel = RabbitMQConnection.CreateChannel();
     }
 
     public void Publicar(string routingKey, string mensagem)

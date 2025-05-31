@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alertas.Application.Subscriber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e0f188ddf010010039a8fee4addc5aece701a4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84cb0e1012ee66080afd5f1e25600d06f5d065a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alertas.Application.Subscriber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alertas.Application.Subscriber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

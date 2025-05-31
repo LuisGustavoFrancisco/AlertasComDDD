@@ -8,9 +8,9 @@ namespace Alertas.API.Controllers
     [Route("api/seguranca")]
     public class SegurancaController : ControllerBase
     {
-        private readonly IAlertaSubscriber _alertasSubscriber;
+        private readonly IAlertaRepository _alertasSubscriber;
 
-        public SegurancaController(IAlertaSubscriber alertasSubscriber)
+        public SegurancaController(IAlertaRepository alertasSubscriber)
         {
             _alertasSubscriber = alertasSubscriber;
         }

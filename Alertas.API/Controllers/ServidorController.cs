@@ -9,9 +9,9 @@ namespace Alertas.API.Controllers
     [Route("api/servidor")]
     public class ServidorController : ControllerBase
     {
-        private readonly IAlertaSubscriber _alertasSubscriber;
+        private readonly IAlertaRepository _alertasSubscriber;
 
-        public ServidorController(IAlertaSubscriber alertasSubscriber)
+        public ServidorController(IAlertaRepository alertasSubscriber)
         {
             _alertasSubscriber = alertasSubscriber;
         }

@@ -3,12 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Alertas.Domain;
 
 namespace Alertas.Infra.Interfaces
 {
-    public interface IAlertaService
+    public interface IAlertaSubscriberService
     {
-        Task ProcessarAlertaAsync(Alerta alerta);
+        void StartListening(string queueName, string routingKey, string endpointURL);
     }
 }
