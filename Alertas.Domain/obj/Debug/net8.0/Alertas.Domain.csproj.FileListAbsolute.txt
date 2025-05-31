@@ -47,3 +47,16 @@ C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Domain\obj\Debug\net
 C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\refint\Alertas.Domain.dll
 C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.pdb
 C:\Users\lugaopc\Desktop\Alertas_Proj\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\ref\Alertas.Domain.dll
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\bin\Debug\net8.0\Alertas.Domain.deps.json
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\bin\Debug\net8.0\Alertas.Domain.dll
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\bin\Debug\net8.0\Alertas.Domain.pdb
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.csproj.AssemblyReference.cache
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.AssemblyInfoInputs.cache
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.AssemblyInfo.cs
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.sourcelink.json
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.dll
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\refint\Alertas.Domain.dll
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\Alertas.Domain.pdb
+C:\Users\NOT LIA\Leonardo\AlertasComDDD\Alertas.Domain\obj\Debug\net8.0\ref\Alertas.Domain.dll

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Subscriber\\Alertas.Subscriber.csproj": {}
+    "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Subscriber\\Alertas.Subscriber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj": {
+    "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj",
         "projectName": "Alertas.Domain",
-        "projectPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj",
-        "packagesPath": "C:\\Users\\lugaopc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Domain\\obj\\",
+        "projectPath": "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj",
+        "packagesPath": "C:\\Users\\NOT LIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lugaopc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NOT LIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -71,24 +71,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj": {
+    "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj",
         "projectName": "Alertas.Infra",
-        "projectPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj",
-        "packagesPath": "C:\\Users\\lugaopc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Infra\\obj\\",
+        "projectPath": "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj",
+        "packagesPath": "C:\\Users\\NOT LIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lugaopc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NOT LIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -103,8 +103,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj": {
-                "projectPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj"
+              "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj": {
+                "projectPath": "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Domain\\Alertas.Domain.csproj"
               }
             }
           }
@@ -119,7 +119,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -166,24 +166,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Subscriber\\Alertas.Subscriber.csproj": {
+    "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Subscriber\\Alertas.Subscriber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Subscriber\\Alertas.Subscriber.csproj",
+        "projectUniqueName": "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Subscriber\\Alertas.Subscriber.csproj",
         "projectName": "Alertas.Subscriber",
-        "projectPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Subscriber\\Alertas.Subscriber.csproj",
-        "packagesPath": "C:\\Users\\lugaopc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Subscriber\\obj\\",
+        "projectPath": "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Subscriber\\Alertas.Subscriber.csproj",
+        "packagesPath": "C:\\Users\\NOT LIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Subscriber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lugaopc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NOT LIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -198,8 +198,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj": {
-                "projectPath": "C:\\Users\\lugaopc\\Desktop\\Alertas_Proj\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj"
+              "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj": {
+                "projectPath": "C:\\Users\\NOT LIA\\Leonardo\\AlertasComDDD\\Alertas.Infra\\Alertas.Infra.csproj"
               }
             }
           }
@@ -214,7 +214,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -241,7 +241,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

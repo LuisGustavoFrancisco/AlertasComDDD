@@ -5,7 +5,7 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/banco/alerta/Alerta": {
+    "/api/banco/Alerta": {
       "post": {
         "tags": [
           "Banco"
@@ -67,7 +67,7 @@
         }
       }
     },
-    "/api/rede/alerta": {
+    "/api/rede/Alerta": {
       "post": {
         "tags": [
           "Rede"
@@ -98,7 +98,7 @@
         }
       }
     },
-    "/api/seguranca/alerta/Alerta": {
+    "/api/seguranca/Alerta": {
       "post": {
         "tags": [
           "Seguranca"

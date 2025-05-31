@@ -2,7 +2,7 @@
   {
     "ContainingType": "Alertas.API.Controllers.BancoController",
     "Method": "ReceberAlerta",
-    "RelativePath": "api/banco/alerta/Alerta",
+    "RelativePath": "api/banco/Alerta",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -34,7 +34,7 @@
   {
     "ContainingType": "Alertas.API.Controllers.RedeController",
     "Method": "ReceberAlerta",
-    "RelativePath": "api/rede/alerta",
+    "RelativePath": "api/rede/Alerta",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -50,7 +50,7 @@
   {
     "ContainingType": "Alertas.API.Controllers.SegurancaController",
     "Method": "ReceberAlerta",
-    "RelativePath": "api/seguranca/alerta/Alerta",
+    "RelativePath": "api/seguranca/Alerta",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

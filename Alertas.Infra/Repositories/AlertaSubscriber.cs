@@ -23,6 +23,7 @@ namespace Alertas.Infra.Repositories
                 throw new ArgumentNullException(nameof(alerta), "Alerta não pode ser nulo");
             }
             sqlcontext.AddAsync(alerta);
+            sqlcontext.SaveChangesAsync();
         }
     }
 }

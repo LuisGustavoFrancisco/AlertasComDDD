@@ -21,7 +21,27 @@ namespace Alertas.API.Controllers
         public IActionResult EnviarAlerta([FromBody] Alerta alerta)
         {
             var json = JsonSerializer.Serialize(alerta);
-            _publisher.Publicar("alerta.servidor", json);
+            
+            if (alerta.Tipo.ToLower() == "servidor")
+            {
+                _publisher.Publicar("alerta.servidor", json);
+            }
+            else if (alerta.Tipo.ToLower() == "rede")
+            {
+                _publisher.Publicar("alerta.rede", json);
+            }
+            else if (alerta.Tipo.ToLower() == "banco")
+            {
+                _publisher.Publicar("alerta.banco", json);
+            }
+            else if (alerta.Tipo.ToLower() == "segurança")
+            {
+                _publisher.Publicar("alerta.seguranca", json);
+            }
+            else
+            {
+                return BadRequest(new { status = "Tipo de alerta inválido." });
+            }
 
             return Ok(new { status = "Mensagem publicada com sucesso." });
         }

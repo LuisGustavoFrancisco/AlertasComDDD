@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Alertas.API.Controllers
 {
     [ApiController]
-    [Route("api/rede/alerta")]
+    [Route("api/rede")]
     public class RedeController : ControllerBase
     {
         private readonly IAlertaSubscriber _alertasSubscriber;
@@ -15,10 +15,10 @@ namespace Alertas.API.Controllers
             _alertasSubscriber = alertasSubscriber;
         }
 
-        [HttpPost]
+        [HttpPost("Alerta")]
         public IActionResult ReceberAlerta([FromBody] Alerta alerta)
         {
-            Console.WriteLine($"Alerta recebido: {alerta.Tipo} - {alerta.Mensagem}");
+            Console.WriteLine($"Alerta recebido de fila_rede: {alerta.Tipo} - {alerta.Mensagem}");
             _alertasSubscriber.Salvar(alerta);
             return Ok(new { status = "ok", mensagem = alerta.Mensagem });
         }
